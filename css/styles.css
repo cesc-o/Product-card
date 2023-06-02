@@ -1,57 +1,14 @@
 html {
   box-sizing: border-box;
-  
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
-  display: flex;
-  justify-content: center;
-  background-color: black;
-
+  
 }
 
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
-.cardImage{
-  
-  
-}
-
-img {
-  width: 100%;
-  height:100%;  
-  
-}
-
-.card {
-  margin-top: 80px;
-  padding: 30px 15px;
-  border-radius: 10px;
-  overflow: hidden;
-  width: 360px;
-  height: 650px;
-  background-color: white;
-  display: flex;
-  flex-direction: column;
-}
-
-.cardText {
-  padding: 30px;
-}
-
-.product-name {
-  font-family: 'Fraunces', serif;
-  font-weight: 700;
-  font-size: 2.1rem;
-
-}
-
-footer {
-  margin-top: 50px;
-  display: flex;
-  align-items: end;
-}
 
 
 
